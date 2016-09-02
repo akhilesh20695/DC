@@ -11,7 +11,7 @@ public class EchoMultiClient {
 	public static void main(String[] args) throws UnknownHostException, IOException
 	{
 		String hostname="localhost";
-		int port=10000;
+		int port=20000;
 		if(args.length>0)
 		{
 			hostname=args[0];

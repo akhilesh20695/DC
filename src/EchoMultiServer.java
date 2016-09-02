@@ -125,7 +125,7 @@ public class EchoMultiServer implements Runnable
 	}
 	public static void main(String args[])
 	{
-		int port=10000;
+		int port=20000;
 		if (args.length > 0)
 			port = Integer.parseInt(args[0]);
 		EchoMultiServer server = new EchoMultiServer(port);	
