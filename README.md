@@ -24,6 +24,16 @@ This repository contains the following Client-Server Implementations:
   2. ExceptionServer2.java
   3. ExceptionClient1.java
   4. ExceptionClient2.java
+7. Client-Server Codes with Java RMI
+  1. HelloInterface.java
+  2. HelloImpl.java
+  3. HelloServer.java
+  4. HelloClient.java
+  5. SqrtInterface.java
+  6. SqrtImpl.java
+  7. SqrtServer.java
+  8. SqrtClient.java
+
   
 ### This is an eclipse project.  
   
